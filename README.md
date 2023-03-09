@@ -1,4 +1,13 @@
-### Hi there 👋
+![MyStats](https://github-readme-stats.vercel.app/api?username=lpofredc&show_icons=true&theme=transparent&card_width=600)]
+
+#### Main contributions
+
+[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=lpoaura&repo=BirdAtlasOfFrance)](https://github.com/lpoaura/BirdAtlasOfFrance) 
+[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=PnX-SI&repo=GeoNature-citizen)](https://github.com/PnX-SI/GeoNature-citizen)
+
+[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=lpoaura&repo=GN2PG)](https://github.com/lpoaura/GN2PG) 
+[![Carte ReadMe](https://github-readme-stats.vercel.app/api/pin/?username=PnX-SI&repo=GeoNature)](https://github.com/PnX-SI/GeoNature)
+
 
 <!--
 **lpofredc/lpofredc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
