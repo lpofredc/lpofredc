@@ -60,7 +60,7 @@
 
 - [lpoaura/aviCable](https://github.com/lpoaura/aviCable)
 - [lpoaura/GN2PG](https://github.com/lpoaura/GN2PG)
-- [lpoaura/PluginQGis-LPOData][https://github.com/lpoaura/PluginQGis-LPOData]
+- [lpoaura/PluginQGis-LPOData](https://github.com/lpoaura/PluginQGis-LPOData)
 
 <br>
 
