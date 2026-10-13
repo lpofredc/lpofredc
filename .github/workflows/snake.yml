@@ -6,7 +6,7 @@ name: Contribution snake
 
 on:
   schedule:
-    - cron: "11 * * * *" # daily, 04:00 UTC
+    - cron: "20 * * * *" # daily, 04:00 UTC
   workflow_dispatch: # manual trigger from the Actions tab
 
 jobs:

@@ -5,7 +5,7 @@ name: Profile summary cards
 
 on:
   schedule:
-    - cron: "13 * * * *" # daily, 03:00 UTC
+    - cron: "25 * * * *" # daily, 03:00 UTC
   workflow_dispatch: # manual trigger from the Actions tab
 
 jobs:
